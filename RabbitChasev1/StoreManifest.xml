@@ -1,0 +1,9 @@
+<StoreManifest xmlns="http://schemas.microsoft.com/appx/2010/StoreManifest">
+  <ProductFeatures>
+    <HardwareRequirements>
+      <Requirement Name="ID_REQ_FRONTCAMERA" />
+      <Requirement Name="ID_REQ_MAGNETOMETER" />
+      <Requirement Name="ID_REQ_GYROSCOPE" />
+    </HardwareRequirements>
+  </ProductFeatures>
+</StoreManifest>
