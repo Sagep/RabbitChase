@@ -10,6 +10,8 @@
         <CaptureElement x:Name="previewElement" Stretch="UniformToFill" Margin="108,58,143.667,158" />
         <Image x:Name="takenImage" Stretch="UniformToFill" Visibility="Collapsed" Margin="0,0,0.667,0"/>
     </Grid>
+    <!--<DrawingSurfaceBackgroundGrid x:Name="LayoutRoot" Background="Transparent">
+    </DrawingSurfaceBackgroundGrid>-->
     <Grid VerticalAlignment="Bottom">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
